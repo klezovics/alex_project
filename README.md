@@ -6,4 +6,6 @@ Basic description of a Mongo Based SpringBoot project (https://springframework.g
 2) Start the project in IntelliJ 
 3) Go to http://localhost:8080/
 
+# Notes 
+1) Embedded MongoDB is used for testing: https://www.baeldung.com/spring-boot-embedded-mongodb
 `
