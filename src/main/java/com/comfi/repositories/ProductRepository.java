@@ -1,6 +1,6 @@
-package guru.springframework.repositories;
+package com.comfi.repositories;
 
-import guru.springframework.domain.Product;
+import com.comfi.domain.Product;
 import org.springframework.data.repository.CrudRepository;
 
 /**

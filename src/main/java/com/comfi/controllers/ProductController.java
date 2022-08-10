@@ -1,9 +1,9 @@
-package guru.springframework.controllers;
+package com.comfi.controllers;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.converters.ProductToProductForm;
-import guru.springframework.domain.Product;
-import guru.springframework.services.ProductService;
+import com.comfi.commands.ProductForm;
+import com.comfi.converters.ProductToProductForm;
+import com.comfi.domain.Product;
+import com.comfi.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,7 +1,7 @@
-package guru.springframework.services;
+package com.comfi.services;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.domain.Product;
+import com.comfi.commands.ProductForm;
+import com.comfi.domain.Product;
 
 import java.util.List;
 
